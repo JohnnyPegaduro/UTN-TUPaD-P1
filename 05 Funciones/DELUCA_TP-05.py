@@ -1,10 +1,10 @@
 """
-TP 2: Funciones en Python
+TP 5: Funciones en Python
 TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN A DISTANCIA
 Materia: Programación I
 Alumno: Matías Ariel Deluca
 
-Este archivo contiene la resolución de los ejercicios del TP 4, que abarca la definición y uso de funciones en Python.
+Este archivo contiene la resolución de los ejercicios del TP 5, que abarca la definición y uso de funciones en Python.
 Cada función está diseñada para resolver un problema específico, y se incluyen comentarios para facilitar su comprensión.
 """
 
