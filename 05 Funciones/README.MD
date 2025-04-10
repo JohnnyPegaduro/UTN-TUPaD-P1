@@ -64,7 +64,7 @@ El código está organizado de la siguiente manera:
 
 2. **Ejecutar el programa:**
    ```bash
-   python tp_funciones.py
+   python DELUCA_TP-05.py
    ```
 
 3. **Interacción:**
