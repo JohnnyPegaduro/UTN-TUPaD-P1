@@ -38,7 +38,7 @@ El archivo `DELUCA_TP-05.1.py` contiene las soluciones a cada ejercicio, con res
 1. Asegúrate de tener Python 3 instalado.
 2. Ejecuta en la terminal:
    ```
-   python tp5_listas.py
+   python DELUCA_TP-O5.1.py
    ```
 3. Observa la salida de cada ejercicio en la consola.
 
